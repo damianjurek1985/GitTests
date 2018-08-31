@@ -8,8 +8,14 @@ public class Second {
     public String toString() {
         return super.toString();
     }
-
+    
     public void weHaveconflict(){
         System.out.println("what Now");
+    }
+
+
+    public void doSomething(){
+    	String text_1 = "ha ha ha"
+    	String text_2 = "buahahaha"
     }
 }
