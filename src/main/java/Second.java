@@ -15,7 +15,7 @@ public class Second {
 
 
     public void doSomething(){
-    	String text_1 = "ha ha ha"
-    	String text_2 = "buahahaha"
+    	String text_1 = "ha ha ha";
+    	String text_2 = "buahahaha";
     }
 }
